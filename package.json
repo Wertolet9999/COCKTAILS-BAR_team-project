@@ -2,14 +2,14 @@
   "name": "cocktail-bar",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Wertolet9999.github.io/cocktail-bar_team-project",
+  "homepage": "https://Wertolet9999.github.io/COCKTAILS-BAR_team-project",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /cocktail-bar_team-project/"
+    "build": "parcel build src/*.html --public-url /COCKTAILS-BAR_team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wertolet9999/cocktail-bar_team-project.git"
+    "url": "git+https://github.com/Wertolet9999/COCKTAILS-BAR_team-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
